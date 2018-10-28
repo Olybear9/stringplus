@@ -1,0 +1,30 @@
+{
+  "name": "advanced-string",
+  "version": "1.0.0",
+  "description": "Adds useful functions to strings!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olybear9/stringplus.git"
+  },
+  "keywords": [
+    "stringplus",
+    "string",
+    "plus",
+    "string",
+    "string",
+    "plus",
+    "plus",
+    "string+",
+    "string++"
+  ],
+  "author": "John Bergman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Olybear9/stringplus/issues"
+  },
+  "homepage": "https://github.com/Olybear9/stringplus#readme"
+}
